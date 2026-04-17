@@ -57,8 +57,12 @@ The system models the **MovieLens 100k** dataset as a heterogeneous graph. The G
 
 ## 📈Results
 The model successfully predicts ratings on a scale of 1.0 - 5.0, with built-in logic to handle "High Recommendation" alerts based on the AI match score.
-<img width="1911" height="743" alt="image" src="https://github.com/user-attachments/assets/b4e501a6-eab6-48dc-b5c9-c485b038be92" />
-<img width="1907" height="791" alt="image" src="https://github.com/user-attachments/assets/48432228-848d-4c2a-b970-cf761295aa62" />
+<img width="1910" height="766" alt="image" src="https://github.com/user-attachments/assets/b4265bd1-4436-42fd-ba3e-fb280b59fc7e" />
+
+<img width="1902" height="671" alt="image" src="https://github.com/user-attachments/assets/0acc2173-6ad7-4519-86fa-eb4f7affeb0c" />
+
+<img width="1904" height="839" alt="image" src="https://github.com/user-attachments/assets/9d388229-a79f-4480-9275-e0922769c11b" />
+
 
 ## 🔮 Future Roadmap
 - [ ] **Knowledge Graph Integration:** Adding Actor/Director nodes to Neo4j to improve relationship depth.
